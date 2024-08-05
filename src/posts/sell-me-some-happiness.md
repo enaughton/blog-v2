@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Sell me some Happiness
+title: Sell me some happiness
 date: 2024-08-05T11:38:00.000Z
 ---
 
